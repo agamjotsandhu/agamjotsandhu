@@ -1,6 +1,6 @@
 ## Hi, I'm Agam
 
-🎓 Second-year Data Science student at the University of Melbourne <br/>
+🎓 Third-year Data Science student at the University of Melbourne <br/>
 🛠️ Projects include algorithm implementations, data analytics, machine learning and data scraping <br/>
 💡 Love problem-solving and doing puzzles / playing strategy games (ofc we talking poker) <br/>
 🚀 Actively building expertise in Data Science, with a goal of securing a high-impact internship and a career in tech <br/>
